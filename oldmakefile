@@ -1,0 +1,22 @@
+CC=gcc
+EXEC=bst
+OBJS=main.o bst.o database.o fictionalcaracter.o utils.o
+
+all :			$(EXEC)
+bst : 			$(OBJS)
+			$(CC) -o  ($EXEC) $(OBJS)
+main.o :		main.c
+			$(CC) -c  main.c
+bst.o :			bst.c
+			$(CC) -c  bst.c
+database.o :		database.c
+			$(CC) -c  database.c
+fictionalcaracter.o :	fictionalcaracter.c
+			$(CC) -c  fictionalcaracter.c
+utils.o :		utils.c
+			$(CC) -c  utils.c
+clean :		
+			rm -rf  *.o
+cleanall :		clean
+			rm -rf $(EXEC)
+

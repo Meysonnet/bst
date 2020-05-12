@@ -1,0 +1,49 @@
+Bond;James;Casino Royale;37
+di Rondo;Cosimo Piovasco;The Baron in the Trees;46
+Lolita;Lolita;Vladimir Nabokov;36
+the Pooh;Winnie;Winnie the Pooh;39
+Adams;Nick;In Our Time;36
+Angstrom;Rabbit;Rabbit Run;32
+Barnes;Jake;The Sun Also Rises;29
+Bart;Lily;The House of Mirth;41
+Bloom;Leopold;Ulysses;45
+Bloom;Molly;Ulysses;55
+Bolling;Binx;The Moviegoer;54
+Brodie;Jean;The Prime of Miss Jean Brodie;49
+Brother;Big;1984;43
+Buendia;Aureliano;One Hundred Years of Solitude;30
+Caulfield;Holden;The Catcher in the Rye;33
+Caulfield;Phoebe;The Catcher in the Rye;34
+Crawford;Janie;Their Eyes Were Watching God;30
+Dalloway;Clarissa;Mrs. Dalloway;38
+Dedalus;Stephen;Portrait of the Artist as a Young Man;51
+Finch;Atticus;To Kill A Mockingbird;41
+Flyte;Sebastian;Brideshead Revisited;27
+Gatsby;Jay;The Great Gatsby;61
+Glass;Seymour;Nine Stories;38
+Golightly;Holly;Breakfast at Tiffany's;36
+Henderson;Eugene;Henderson the Rain King;62
+Holden;Judge;Blood Meridian Cormac McCarthy;56
+Holmes;Sherlock;The Hound of the Baskervilles;47
+Humbert;Humbert;Lolita;58
+Jimson;Gulley;The Horse's Mouth;46
+Marcel;Proust;Remembrance of the past;34
+Marlowe;Philip;The Big Sleep;57
+Maturin;Stephen;Master and Commander;30
+Matzerath;Oskar;The Tin Drum;52
+McCrae;Augustus;Lonesome Dove;56
+Merrill;Neddy;The Swimmer;39
+Moriarty;Dean;On the Road;41
+Motes;Hazel;Wise Blood;32
+O'Hara;Scarlett;Gone With the Wind Margaret Mitchell;29
+Pan;Peter;The Little White Bird;51
+Peace;Sula;Sula;60
+Portnoy;Alex;Portnoy's Complaint;48
+Reilly;Ignatius;A Confederacy of Dunces;38
+Ripley;Tom;The Talented Mr. Ripley;55
+Samsa;Gregor;The Metamorphosis;33
+Shimerda;Antonia;My Antonia;37
+Smiley;George;Tinker;28
+Spade;Sam;The Maltese Falcon;27
+Stark;Willie;All the King's Men;30
+Thomas;Bigger;Native Son;27

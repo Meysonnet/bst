@@ -1,0 +1,2 @@
+g++ -Wall *.cpp *.hpp *.h -o bst
+
